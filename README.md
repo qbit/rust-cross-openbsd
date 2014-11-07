@@ -4,7 +4,7 @@ rust-cross-openbsd
 Cross-compiling Rust to OpenBSD.
 
 This is a work in progress and is aimed at creating a rustc binary to run
-natively on OpenBSD. The current status is that it can cross-compile rustc to
+natively on OpenBSD. The current status is that it *can not* cross-compile rustc to
 OpenBSD.
 
 Read [this document][rust-cross] on how to cross-compile Rust to OpenBSD.
